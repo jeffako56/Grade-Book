@@ -1,8 +1,5 @@
-import logo from "./logo.svg";
 import "./App.css";
 import StudentInput from "./StudentInput";
-import { useState } from "react";
-import Modal from "./Modal";
 
 function App() {
   return (
