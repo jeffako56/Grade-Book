@@ -1,9 +1,9 @@
 Getting Started with Grade - Book Application
 
-The user must have the records in the class,
+The user must input his/her Name, Grade and Subject to save a record.
 
-The user can input record to output it in the list,
+User must click the Add Student button in order to save a record and it will be added to the list of Students.
 
-The user can calculate the total average of the list,
+By clicking the Class Average button, user can see the calculated Class Average of the List of Students recorded.
 
-The user can clear the records in the application.
+Upon clicking the Clear Records, the recorded information will be deleted.
